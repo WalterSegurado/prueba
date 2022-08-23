@@ -1,0 +1,19 @@
+button {
+    width: 500px;
+    height: 500px;
+    background-color: chartreuse;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    padding: 30px;
+    color: crimson;
+    font-size: 200px;
+    transition: .35 ease all;
+}
+
+button:hover {
+    background-color:  crimson;
+    color: chartreuse;
+    box-shadow: 3px 3px 50 px rgba(0, 0, 0, .15);
+
+}
